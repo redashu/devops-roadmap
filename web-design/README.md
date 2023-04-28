@@ -43,7 +43,7 @@ drwxr-xr-x 2 test root 24 Apr 28 12:48 /var/www/html/
 
 ```
 
-### Now create soft link to /var/www/html/  using test user 
+### step 2 : Now create soft link to /var/www/html/  using test user 
 
 ```
 [test@ip-172-31-47-238 ~]$ whoami
